@@ -2,10 +2,10 @@
 
 [English Version](./README.md) | [中文版](./README_CN.md)
 
-![GitHub stars](https://img.shields.io/github/stars/yourusername/desktime?style=social)
-![GitHub forks](https://img.shields.io/github/forks/yourusername/desktime?style=social)
-![GitHub last commit](https://img.shields.io/github/last-commit/yourusername/desktime)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=yourusername.desktime)
+![GitHub stars](https://img.shields.io/github/stars/spcity/desktime?style=social)
+![GitHub forks](https://img.shields.io/github/forks/spcity/desktime?style=social)
+![GitHub last commit](https://img.shields.io/github/last-commit/spcity/desktime)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=spcity.desktime)
 
 > 🕒 A beautiful, minimalist, and customizable floating clock for Windows desktop
 
