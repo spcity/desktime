@@ -27,8 +27,8 @@
 
 ### 1. Download & Run
 
-1. [Download the latest release](https://github.com/yourusername/desktime/releases)
-2. Unzip and double-click `desktime.exe` to run (no installation required)
+1. [Download the latest release](https://github.com/spcity/desktime/releases/tag/v1)
+2. Unzip and double-click `desktime v1.exe` to run (no installation required)
 
 ### 2. Customization
 
@@ -76,4 +76,3 @@ MIT License
 
 ---
 
-> Project Home: [https://github.com/yourusername/desktime](https://github.com/yourusername/desktime)
