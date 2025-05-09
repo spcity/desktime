@@ -66,6 +66,8 @@ To package yourself or change the icon, see [Packaging Guide](#packaging-guide).
 
 ## 📷 Screenshot
 
+<video src="desktime show.mp4" controls width="600"></video>
+
 ![screenshot](https://raw.githubusercontent.com/yourusername/desktime/main/screenshot.png)
 
 ---
