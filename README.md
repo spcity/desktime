@@ -5,7 +5,8 @@
 ![GitHub stars](https://img.shields.io/github/stars/spcity/desktime?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/spcity/desktime?style=social)
 ![GitHub last commit](https://img.shields.io/github/last-commit/spcity/desktime)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=spcity.desktime)
+
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fspcity%2Fdesktime&countColor=%23263759&style=flat)](https://github.com/spcity/desktime)
 
 > 🕒 A beautiful, minimalist, and customizable floating clock for Windows desktop
 
