@@ -66,7 +66,7 @@
 
 ## 📷 截图
 
-![screenshot](https://raw.githubusercontent.com/yourusername/desktime/main/screenshot.png)
+![20250509-235226](https://github.com/user-attachments/assets/eb92c3c0-83c0-45f1-8a1f-27c2562fb983)
 
 ---
 
